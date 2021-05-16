@@ -8,3 +8,4 @@ boolean usbCharge = chargePlug == BatteryManager.BATTERY_PLUGGED_USB; boolean ac
 /*DEVICE NOT CHARGING*/
 
  Toast.makeText(getApplicationContext(),"Device not charging",Toast.LENGTH_LONG).show(); }
+/*TUTORIAL: https://www.sketchwarehelp.ga/2021/04/how-to-detect-battery-charging-mode-in.html */
